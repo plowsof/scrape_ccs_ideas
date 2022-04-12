@@ -41,7 +41,7 @@ Proposed Meeting Items:
 1. Introduction
 2. Greetings
 3. Community highlights    
-News: [Monero Observer](https://www.monero.observer/) - [Monero Moon](https://www.themoneromoon.com/) - [Monero Revuo](https://revuo-xmr.com/)
+News: [Monero Observer](https://www.monero.observer/) - [Monero Moon](https://www.themoneromoon.com/) - [Revuo Monero](https://revuo-xmr.com/)
 4. [CCS updates](https://ccs.getmonero.org/)    """
 
 i = 0
