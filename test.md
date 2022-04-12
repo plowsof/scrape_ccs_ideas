@@ -13,7 +13,7 @@ Proposed Meeting Items:
 
 1. Introduction
 2. Greetings
-3. Community highlights
+3. Community highlights    
 News: [Monero Observer](https://www.monero.observer/) - [Monero Moon](https://www.themoneromoon.com/) - [Monero Revuo](https://revuo-xmr.com/)
 4. [CCS updates](https://ccs.getmonero.org/)    
   a. [Patronero - Open Source project for donating by mining](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/310)    
