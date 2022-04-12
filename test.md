@@ -1,14 +1,3 @@
-a. [Patronero - Open Source project for donating by mining](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/310)    
-b. [HotShop Point of Sale](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/307)    
-c. [Let more people use XMR, telegram push, small transactions done in seconds, docker private deployment, provide free API service](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/300)    
-d. [SolOptXMR - Solar Optimal mining of XMR](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/299)    
-e. [Translation of Monero GUI Wallet, CLI Wallet, monero-site, Behavioral Finance, Cryptocurrency Markets (subtitles), Moneropedia, User Guides to Greek](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/296)    
-f. [The Monero Moon CCS proposal - March 2022](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/294)    
-g. [Monero Afghanistan Expansion Strategy](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/282)    
-
-
-
-
 Location: [Libera.chat, #monero-community](https://libera.chat/) | [Matrix](https://matrix.to/#/#monero-community:monero.social?via=matrix.org&via=monero.social)
 
 [Instructions for joining the monero.social Matrix server.](https://forum.monero.space/d/79-how-to-join-the-monero-core-team-matrix-server-web)
@@ -27,10 +16,13 @@ Proposed Meeting Items:
 3. Community highlights
 News: [Monero Observer](https://www.monero.observer/) - [Monero Moon](https://www.themoneromoon.com/) - [Monero Revuo](https://revuo-xmr.com/)
 4. [CCS updates](https://ccs.getmonero.org/)
-  a. Monero Afghanistan Expansion Strategy by spirobel
-  b. mj part time coding 2022-03
-  c. j-berman full-time 3 months part 2
-  d. 'Work in Progress' projects discussion
+  a. [Patronero - Open Source project for donating by mining](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/310)    
+  b. [HotShop Point of Sale](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/307)    
+  c. [Let more people use XMR, telegram push, small transactions done in seconds, docker private deployment, provide free API service](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/300)    
+  d. [SolOptXMR - Solar Optimal mining of XMR](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/299)    
+  e. [Translation of Monero GUI Wallet, CLI Wallet, monero-site, Behavioral Finance, Cryptocurrency Markets (subtitles), Moneropedia, User Guides to Greek](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/296)    
+  f. [The Monero Moon CCS proposal - March 2022](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/294)    
+  g. [Monero Afghanistan Expansion Strategy](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/282)    
 5. Workgroup reports
   a. Dev workgroup
   b. Localization workgroup
